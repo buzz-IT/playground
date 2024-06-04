@@ -53,6 +53,7 @@ func main() {
 		HTML: getHtml,
 		Icon: app.Icon{
 			Default: "/web/logo.png",
+			SVG:     "/web/logo.svg",
 		},
 		Keywords: []string{
 			"IP Tool",
