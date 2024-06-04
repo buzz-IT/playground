@@ -1,0 +1,7 @@
+:root {
+    /* Define the primary color variable */
+    --primary-color: #fbb800; /* blue */
+}
+.primary-button {
+    background-color: var(--primary-color);
+}
