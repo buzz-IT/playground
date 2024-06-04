@@ -2,6 +2,6 @@
     /* Define the primary color variable */
     --primary-color: #fbb800; /* blue */
 }
-.primary-button {
+.btn-primary  {
     background-color: var(--primary-color);
 }
